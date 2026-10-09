@@ -1,7 +1,6 @@
 # **Socioeconomic vulnerability and elevated Wastewater discharge in the San Joaquin Valley**
 
-![https://avaenergy.org/community/who-we-serve/san-joaquin-county/](California's_Central_Valley.JPG)
-
+![Alt Text](https://avaenergy.org/community/who-we-serve/san-joaquin-county/)
 
 #### Author: 
 
