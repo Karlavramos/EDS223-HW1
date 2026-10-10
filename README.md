@@ -1,5 +1,7 @@
 # **Socioeconomic vulnerability and elevated Wastewater discharge in the San Joaquin Valley**
 
+<img width="2048" height="1169" alt="California&#39;s_Central_Valley" src="https://github.com/user-attachments/assets/5684f44d-66ea-477b-a565-e26bca6c0fdf" />
+
 #### Author: 
 
 Karla Ramos [[Github Profile](https://github.com/Karlavramos)]
