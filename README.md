@@ -13,10 +13,16 @@ This repository purpose is contain all documents needed to produce Environmental
 ## Repository Content
 
 ```{r}
+
 EDS223-HW1
 │   README.md
 │   ej_screen.qmd
-|   ej_screen.pdf    
+|   ej_screen.pdf
+|   ej_screen.html
+|   ej_screen.tex
+├── ejscreen_files
+|        figure-html
+|         figure-pdf    
 └───data
      └───ejscreen
          ejscreen-tech-doc-version-2-2.pdf
