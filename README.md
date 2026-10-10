@@ -1,14 +1,14 @@
-# **Socioeconomic vulnerability and elevated Wastewater discharge in the San Joaquin Valley**
+# **Mapping the Relationship Between Socioeconomic Vulnerability and Wastewater Discharge in the San Joaquin County (2023)**
 
 <img width="990" height="731" alt="delta-and-water" src="https://github.com/user-attachments/assets/fbdce3bc-3194-4a3b-bbb9-6deda37a4f0c" />
 
 
 #### Author: 
 
-Karla Ramos [[Github Profile](https://github.com/Karlavramos)]
+Karla Ramos [[GitHub Profile](https://github.com/Karlavramos)]
 
 ## General Summary
-This repository purpose is contain all documents needed to produce Environmental Justice Screen maps that communicate the elevated Wastewater discharge in the San Joaquin Valley and how it is concentrated near communities that have heightened Socioeconomic vulnerability.
+This repository purpose is contain all documents needed to produce Environmental Justice Screen maps that communicate the elevated Wastewater discharge in the San Joaquin County and it's proximity to communities that have heightened socioeconomic vulnerability.
 
 ## Repository Content
 
@@ -24,7 +24,7 @@ EDS223-HW1
 ```
 
 ## Data 
-EJScreen provides on environmental and demographic information for the US at the Census tract and block group levels. The data used is from Environmental Justice Mapping and Screening Tool from July 2023. 
+EJScreen provides on environmental and demographic information for the US at the Census tract and block group levels. The data used is from Environmental Justice Screening Mapping and Tool from July 2023. 
 
 Data provided by Annie Adams, Bren School of Environmental Science & Management, [University of California, Santa Barbara], via [EDS 223: Geospatial Analysis & Remote Sensing], [October 2026]
 
