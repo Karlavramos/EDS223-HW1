@@ -8,6 +8,8 @@ Karla Ramos [[Github Profile](https://github.com/Karlavramos)]
 This repository purpose is contain all documents needed to produce Environmental Justice Screen maps that communicate the elevated Wastewater discharge in the San Joaquin Valley and how it is concentrated near communities that have heightened Socioeconomic vulnerability.
 
 ## Repository Content
+
+```{r}
 EDS223-HW1
 │   README.md
 │   ej_screen.qmd
@@ -16,6 +18,7 @@ EDS223-HW1
      └───ejscreen
          ejscreen-tech-doc-version-2-2.pdf
          EJSCREEN_2023_BG_Columns.xlsx
+```
 
 ## Data 
 EJScreen provides on environmental and demographic information for the US at the Census tract and block group levels. The data used is from Environmental Justice Mapping and Screening Tool from July 2023. 
