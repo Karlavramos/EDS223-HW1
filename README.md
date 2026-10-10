@@ -1,6 +1,7 @@
 # **Socioeconomic vulnerability and elevated Wastewater discharge in the San Joaquin Valley**
 
-<img width="2048" height="1169" alt="California&#39;s_Central_Valley" src="https://github.com/user-attachments/assets/5684f44d-66ea-477b-a565-e26bca6c0fdf" />
+<img width="990" height="731" alt="delta-and-water" src="https://github.com/user-attachments/assets/fbdce3bc-3194-4a3b-bbb9-6deda37a4f0c" />
+
 
 #### Author: 
 
