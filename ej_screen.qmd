@@ -37,21 +37,21 @@ california_counties <- aggregate(california, by = list(california$CNTY_NAME), FU
 ```{r}
 # Plot percentile of wastewater discharge
 sj_waterdischarge <-tm_shape(san_joaquin)+  # Define the spacial object to plot 
-  tm_title('Waterwater Discharge in San Joaquin County (2023)')+
-  tm_polygons(fill= 'P_PWDIS', fill.legend = tm_legend(title = "Toxicity-weighted concentration / km"))+ 
-  tm_add_legend(type = "line", col = "white") +
+  tm_title('Wastewater Discharge in \n San Joaquin County (2023)')+
+  tm_polygons(fill= 'P_PWDIS', fill.legend = tm_legend(title = "Toxicity-weighted \nconcentration / km"))+  
+  tm_style("white")+
   tm_layout(bg.color = "white")+
-  tm_style("white") +
   tm_compass() +
   tm_scalebar() 
 ```
+
 ```{r}
 # Plot EJScreen Supplemental Demographic Index
 # Supplemental Demographic Index is based on the average of two demographic indicators; Percent Low-Income and Percent Minority.
 sj_demographic <- tm_shape(san_joaquin)+ # Define the spacial object to plot 
-    tm_polygons(fill= 'P_DEMOGIDX_2', fill.legend = tm_legend(title = "Average of percent
-low income and percent people of color")) +
-    tm_title('EJ Demographic Index in San Joaquin County (2023)')+
+    tm_polygons(fill= 'P_DEMOGIDX_2', fill.legend = tm_legend(title = "Percentile
+      low income and people of color")) +
+    tm_title('EJ Demographic Index in \n San Joaquin County (2023)')+
     tm_add_legend(type = "line", col = "white") +
     tm_layout(bg.color = "white")+
     tm_style("beaver") +
@@ -61,7 +61,11 @@ low income and percent people of color")) +
 
 ```{r}
 # Arrange maps in a grid
-tmap_arrange(sj_waterdischarge, sj_demographic)
+#tmap_arrange(sj_waterdischarge, sj_demographic)
+
+sj_waterdischarge
+sj_demographic
+
 ```
 
 ## Mapping summary: 
@@ -71,5 +75,7 @@ In San Joaquin County, unsafe water quality poses a major public health threat, 
 
 The map on the left (Wastewater Discharge in San Joaquin County, 2023) shows wastewater discharge from permitted facilities, measured as toxicity-weighted concentration divided by distance in meters. The map on the right (EJ Demographic Index in San Joaquin County, 2023) shows a demographic index based on percent low-income and percent people of color. In the western part of the county, areas with high wastewater toxicity substantially overlap with areas scoring high on the demographic index.
 
+## Include a brief revision memo (one short paragraph) identifying which specifications were not met and explaining the changes you made:
 
+I was advised to make changes to my maps to make them more legible. I increased the size of the title and the legends.
 
